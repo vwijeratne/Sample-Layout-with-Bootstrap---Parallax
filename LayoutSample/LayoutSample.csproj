@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Scripts\jquery-1.9.1.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -74,6 +75,38 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="HomePage.html" />
+    <Content Include="img\Animals\Animal1.jpg" />
+    <Content Include="img\Animals\CoalaBear.jpg" />
+    <Content Include="img\Animals\Deer.jpg" />
+    <Content Include="img\Animals\Elephent1.jpg" />
+    <Content Include="img\Animals\Lion2.jpg" />
+    <Content Include="img\Animals\Lions1.jpg" />
+    <Content Include="img\comfort-with-solitude.jpeg" />
+    <Content Include="img\deer_400400.jpg" />
+    <Content Include="img\img_parallax.jpg" />
+    <Content Include="img\pedroquintela.jpg" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <None Include="Scripts\jquery-1.9.1.intellisense.js" />
+    <Content Include="img\rabbit_400400.jpg" />
+    <Content Include="img\solitude_4ae2b10b123ce_hires.jpg" />
+    <Content Include="img\tiger_400400.jpg" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-1.9.1.js" />
+    <Content Include="Scripts\jquery-1.9.1.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
